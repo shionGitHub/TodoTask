@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <CheckBoxPreference
+        android:id="@+id/checkbox"
+        android:keepScreenOn="true"
+        android:key="@string/night_mode_pref_key"
+        android:summaryOff="@string/night_mode_off_summary"
+        android:summaryOn="@string/night_mode_on_summary"
+        android:title="@string/night_mode" />
+</PreferenceScreen>

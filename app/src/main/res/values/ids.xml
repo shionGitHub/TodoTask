@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="id_tag_recycler" type="id" />
+    <item name="toolbar" type="id" />
+    <item name="coordinator" type="id" />
+    <item name="appbar" type="id" />
+    <item name="recycler" type="id" />
+    <item name="fab" type="id" />
+    <item name="empty" type="id" />
+    <item name="edit" type="id"/>
+
+</resources>
